@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Shahedium!
+🚀 AI/ML Engineer | Passionate about Data Science  
 
-<!--
-**Shahedium/Shahedium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔹 Skills  
+✔️ Python, Machine Learning, Deep Learning  
+✔️ Git, GitHub, Data Visualization  
 
-Here are some ideas to get you started:
+## 🔹 Projects  
+🔹 **[House Price Prediction](https://github.com/Shahedium/house-price-prediction.git)** – Built an ML model using Linear Regression.  
+🔹 **[Sentiment Analysis](https://github.com/Shahedium/ml-linear-regression.git)** – Analyzed Twitter sentiment using NLP.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Contact  
+📧 Email: mosabbirhassanshahed@email.com  
+🔗 [LinkedIn](www.linkedin.com/in/shahedium)  
