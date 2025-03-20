@@ -6,8 +6,8 @@
 ✔️ Git, GitHub, Data Visualization  
 
 ## 🔹 Projects  
-🔹 **[House Price Prediction](https://github.com/Shahedium/house-price-prediction.git)** – Built an ML model using Linear Regression.  
-🔹 **[ML Linear Regression](https://github.com/Shahedium/ml-linear-regression.git)** – Analyzed Twitter sentiment using NLP.  
+🔹 **[House Price Prediction](https://github.com/Shahedium/House_Price_Prediction.git)** – Built an ML model using Linear Regression.  
+🔹 **[ML Linear Regression](https://github.com/Shahedium/Sales_Prediction.git)** – Predicted Sales using Linear Regression.  
 
 ## 🔹 Contact  
 📧 Email: mosabbirhassanshahed@email.com  
